@@ -1,0 +1,16 @@
+{
+  "name": "ai-trading-bot",
+  "version": "1.0.0",
+  "description": "AI automated crypto trading bot with GPT-based analytics",
+  "main": "index_home_full.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.4.0"
+  },
+  "scripts": {
+    "start": "node index_home_full.js"
+  },
+  "author": "daegari666-bot",
+  "license": "MIT"
+}
